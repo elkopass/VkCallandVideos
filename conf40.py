@@ -1,0 +1,3 @@
+owner_id = -83906457
+video_id = 45624536
+user_tok = "vk1.a.Q4G7QkQ9X0uFNfgoZ97Kmcu89scbN8IRFNTq6dUz3NuRgT7o7ie9BINRgOI75NRon2Pl7qsu0rKl4MEsYFAwTsx2i0a9pqduXDlhOHjMEHZxJDOhQryVxIav5Kgt6Jj3BW-moFh1n8OFcYN08NuIocARmCSLxEOi3iQXUP2FkwhNxumG7--w8O_3xVjDP-xM"
